@@ -18,7 +18,7 @@ XML
 ## 📑 Документация
 
 - [SRS проекта](https://github.com/StasRimashewskii/BookNest/blob/main/Requirements/SRS.md)  
-- [Макеты интерфейса]()  
+- [Макеты интерфейса](https://github.com/StasRimashewskii/BookNest/tree/main/Mockups)  
 - [Диаграммы]()  
 
 ---
