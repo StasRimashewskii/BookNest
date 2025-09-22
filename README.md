@@ -1,42 +1,42 @@
-# 📚 BookNest — Personal book collection manager
+# 📚 BookNest — менеджер личной коллекции книг
 
-This program allows you to manage your personal collection of books and find information about them.
+Программа позволяет управлять личной коллекцией книг и находить информацию о них.
 
 ---
 
-### Operation system
+### Операционная система
 Android  
 
-### Language
+### Язык разработки
 Java  
 
-### Interface language
+### Язык интерфейса
 XML  
 
 ---
 
-## 📑 Documentation
+## 📑 Документация
 
-- [SRS of program](https://github.com/YourUsername/BookNest/blob/master/Requirements/SRS.md)  
-- [User interface images](https://github.com/YourUsername/BookNest/tree/master/Mockups)  
-- [Diagrams](https://github.com/YourUsername/BookNest/tree/master/Diagrams)  
-
----
-
-## 💻 Source code
-
-- [Java code](https://github.com/YourUsername/BookNest/tree/master/code/java%20classes)  
-- [XML code](https://github.com/YourUsername/BookNest/tree/master/code/layout%20xml)  
+- [SRS проекта](https://github.com/YourUsername/BookNest/blob/master/Requirements/SRS.md)  
+- [Макеты интерфейса](https://github.com/YourUsername/BookNest/tree/master/Mockups)  
+- [Диаграммы](https://github.com/YourUsername/BookNest/tree/master/Diagrams)  
 
 ---
 
-## 🏗️ Used patterns
-- **Observer** — button listeners  
-- **MVC** — separation of logic (Java classes), data (SQLite), and interface (XML)  
+## 💻 Исходный код
+
+- [Java-код](https://github.com/YourUsername/BookNest/tree/master/code/java%20classes)  
+- [XML-код](https://github.com/YourUsername/BookNest/tree/master/code/layout%20xml)  
 
 ---
 
-## 🧪 Testing
+## 🏗️ Используемые шаблоны проектирования
+- **Observer** — обработка событий и слушатели кнопок  
+- **MVC** — разделение логики (Java-классы), данных (SQLite) и интерфейса (XML)  
 
-- [Test plan](https://github.com/YourUsername/BookNest/blob/master/Test%20plan.md)  
-- [Test results](https://github.com/YourUsername/BookNest/blob/master/Test%20results.md)  
+---
+
+## 🧪 Тестирование
+
+- [План тестирования](https://github.com/YourUsername/BookNest/blob/master/Test%20plan.md)  
+- [Результаты тестирования](https://github.com/YourUsername/BookNest/blob/master/Test%20results.md)  
