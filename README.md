@@ -17,16 +17,16 @@ XML
 
 ## 📑 Документация
 
-- [SRS проекта](https://github.com/YourUsername/BookNest/blob/master/Requirements/SRS.md)  
-- [Макеты интерфейса](https://github.com/YourUsername/BookNest/tree/master/Mockups)  
-- [Диаграммы](https://github.com/YourUsername/BookNest/tree/master/Diagrams)  
+- [SRS проекта](https://github.com/StasRimashewskii/BookNest/blob/main/Requirements/SRS.md)  
+- [Макеты интерфейса]()  
+- [Диаграммы]()  
 
 ---
 
 ## 💻 Исходный код
 
-- [Java-код](https://github.com/YourUsername/BookNest/tree/master/code/java%20classes)  
-- [XML-код](https://github.com/YourUsername/BookNest/tree/master/code/layout%20xml)  
+- [Java-код]()  
+- [XML-код]()  
 
 ---
 
@@ -38,5 +38,5 @@ XML
 
 ## 🧪 Тестирование
 
-- [План тестирования](https://github.com/YourUsername/BookNest/blob/master/Test%20plan.md)  
-- [Результаты тестирования](https://github.com/YourUsername/BookNest/blob/master/Test%20results.md)  
+- [План тестирования]()  
+- [Результаты тестирования]()  
