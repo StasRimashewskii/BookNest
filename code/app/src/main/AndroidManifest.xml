@@ -16,26 +16,16 @@
         android:theme="@style/Theme.BookNest"
         tools:targetApi="31">
 
-        <!-- Экран входа (launcher) -->
-        <activity
-            android:name=".ui.SignInActivity"
+        <activity android:name=".ui.SignInActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <!-- Главный экран -->
         <activity android:name=".MainActivity" />
-
-        <!-- Регистрация -->
         <activity android:name=".ui.RegisterActivity" />
-
-        <!-- Добавление книги -->
         <activity android:name=".ui.AddBookActivity" />
-
-        <!-- Информация о книге -->
         <activity android:name=".ui.BookInfoActivity" />
 
     </application>
