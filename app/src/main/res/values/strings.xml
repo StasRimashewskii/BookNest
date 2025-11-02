@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BookNest</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="add_book">Add Book</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="year">Year</string>
+    <string name="isbn">ISBN</string>
+    <string name="genre">Genre</string>
+    <string name="comment">Comment</string>
+    <string name="status_reading">Reading</string>
+    <string name="status_read">Read</string>
+    <string name="status_want">Want to Read</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="no_internet">No internet connection</string>
+    <!-- Добавьте больше по мере необходимости -->
+</resources>
